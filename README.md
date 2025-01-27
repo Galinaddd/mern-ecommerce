@@ -7,11 +7,11 @@
 - Node.js
 - Express.js
 - MongoDB
-- State manager - TanStack Query
+- State manager - Zustand
 
 ### Features:
 
-- ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind, Zustand
+- ⚛️ Tech Stack: React.js, MongoDB, Node.js, Express, Tailwind
 - 🗄️ MongoDB & Redis Integration
 - 💳 Stripe Payment Setup
 - 🔐 Robust Authentication System
